@@ -1,5 +1,8 @@
 ChangeLog
 
+5.1.0
+	Added code to deal with FAR
+	
 5.0.0 1/27/2025
 	Adoption by Linuxgurugamer
 	Fixed bug with b9 procedural wings getting a MM error 
