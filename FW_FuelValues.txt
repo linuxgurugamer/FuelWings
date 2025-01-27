@@ -1,0 +1,33 @@
+MAX FUEL CAPACITIES
+----------
+Connector A: 85
+Connector B: 85
+Connector C: 50
+Connector D: 20
+Connector E:20
+Delta: 90
+Small Delta: 50
+Structural Wing A: 50
+Structural Wing B: 50
+Structural Wing C: 15
+Structural Wing D: 7
+Swept Wing A: 70
+Swept Wing B: 85
+Wing Strake: 14
+Elevons have no fuel
+_____B9_____
+HW21:250
+SH A35 4x6: 80
+SH A45 4x4: 60
+SH A65 4x2: 40
+SH 4x1: 30
+SH 4x2: 60
+SH 4x4: 120
+SW Winglet 3x2.75: 10
+SW Winglet 4x2.75: 15
+SW Winglet 5x4.5: 30
+SW Winglet 6x5: 40 
+SW Wingtip 2x7: 80
+SW Wingtip 4x7: 120
+____B9 ProceduralWings____
+Wing only (no control surface): 15 unit of fuel per unit surface area (more specifically lift coef)

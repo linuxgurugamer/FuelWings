@@ -1,0 +1,18 @@
+ChangeLog
+
+0.5.0.0
+	Adoption by Linuxgurugamer
+	Fixed bug with b9 procedural wings getting a MM error 
+
+v4 (11/08/2020) Updated for 1.10.x Resolved conflicts that occur when multiple fuel mods are installed (FSFuelSwitch, Interstellar, ConfigurableContainers, etc). FW takes priority if possible Replaced ProceduralWings support for B9 ProceduralWings Added ability for maximum fuel value to scale up/down as procedural wing changes in size
+
+v3.2f (12/23/2018) Updated for 1.5.x
+
+v3.2e (4/2/2018) Updated for 1.4.1
+
+v3.2d (07/03/2017) "added Updated Modular fuel tanks mod dependency." "Fuel wings updated for 1.3"
+
+v3.2c (04/1/2017) It's working again; Emergency update applied. Someone did not save the files as .cfg, breaking the entire mod. v3.2b (03/31/2017) Linuxgurugamer caught & fixed some weird foreign characters in the mod configuration
+
+
+Version 3.2b for Kerbal Space Program 1.2.2
