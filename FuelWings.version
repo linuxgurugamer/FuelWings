@@ -3,8 +3,8 @@
   "URL": "https://raw.githubusercontent.com/linuxgurugamer/FuelWings/refs/heads/main/FuelWings.version",
   "DOWNLOAD": "https://github.com/linuxgurugamer/FuelWings/releases",
   "VERSION": {
-    "MAJOR": 0,
-    "MINOR": 5,
+    "MAJOR": 5,
+    "MINOR": 0,
     "PATCH": 0,
     "BUILD": 0
   },
