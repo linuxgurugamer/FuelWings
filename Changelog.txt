@@ -1,5 +1,11 @@
 ChangeLog
 
+5.1.0.1
+	Updated the volumes on three wing parts:
+		structuralWing3
+		airplaneTail
+		airplaneTailB
+
 5.1.0
 	Added code to deal with FAR
 	
